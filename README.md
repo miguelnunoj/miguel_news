@@ -1,16 +1,9 @@
 # miguel_news
 
-A new Flutter project.
+A new Flutter project to learn Bloc Paterrn and NewsAPI.org.
 
-## Getting Started
+## Goal of project:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The idea of this Project was to learn how to use bloc pattern and consume API of a news API provider.
+Bloc Pattern is one of the main ways to professionally deal with state controller in Flutter. 
+Mixing it with a NewsAPI provider make it the perfect project to emulate the behaviour of realtime applications.
